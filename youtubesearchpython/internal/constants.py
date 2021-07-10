@@ -62,3 +62,8 @@ class VideoSortOrder:
     uploadDate = 'CAISAhAB'
     viewCount = 'CAMSAhAB'
     rating = 'CAESAhAB'
+
+
+class VideoFeature:
+    subtitle = 'EgQQASgB'
+    creativecommons = 'EgYQASgBMAE%253D'
